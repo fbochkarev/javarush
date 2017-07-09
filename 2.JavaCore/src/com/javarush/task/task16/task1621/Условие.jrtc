@@ -1,0 +1,6 @@
+<div class="wdghtml" taskKey="com.javarush.task.task16.task1621">
+<h3>Thread.currentThread - всегда возвращает текущую нить</h3>
+<p>1. В методе <mark>printMsg</mark> присвой переменной <mark class="user">t</mark> текущую нить.<br />
+2. В методе <mark>printMsg</mark> после всех действий поставь задержку в <span class="text-user"><strong>1</strong></span> миллисекунду.</p>
+
+</div>
